@@ -1,2 +1,4 @@
 language: csharp
 solution: SchemalessCsvReader.sln
+notifications:
+  email: false
